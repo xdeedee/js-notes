@@ -34,15 +34,12 @@ function lastNonZeroNumber(n) {
 }
 
 //测试
-var a = factorialN(0);
-console.log(a);
 
-var a = factorialN(1);
-console.log(a);
+console.log(factorialN(0));
 
-var a = factorialN(12);
-console.log(a);
+console.log(factorialN(1));
 
-var a = factorialN(12300);
-  console.log(a);
- 
+console.log(factorialN(12));
+
+console.log(factorialN(12300));
+
